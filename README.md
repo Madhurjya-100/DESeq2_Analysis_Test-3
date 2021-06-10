@@ -21,5 +21,5 @@ f.	Last 20 rows will be the top 20 significant downregulated genes.
 3.	Function of genes:
 a.	The function of the significant upregulated and downregulated genes was identified using pantherdb.org and attached as excel sheets respectively.
 
-________________________________________
+_______________________________________
 
